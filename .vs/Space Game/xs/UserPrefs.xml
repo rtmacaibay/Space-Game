@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{EC19933E-13EF-F540-D297-91BC7A86B658}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/KeyCodeFinder.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Shooting.cs" Line="37" Column="93" />
+      <File FileName="Assets/Scripts/Moving.cs" Line="38" Column="81" />
+      <File FileName="Assets/Scripts/Bullet.cs" Line="34" Column="43" />
+      <File FileName="Assets/Scripts/Score.cs" Line="71" Column="12" />
+      <File FileName="Assets/Scripts/Ship.cs" Line="11" Column="23" />
+      <File FileName="Assets/Scripts/SceneLoader.cs" Line="22" Column="28" />
+      <File FileName="Assets/Scripts/KeyCodeFinder.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4e151fe1-3af6-4e35-8948-8b66dffa5276" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
